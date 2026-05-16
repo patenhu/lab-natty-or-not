@@ -1,51 +1,36 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Invasão de fofura! ou não?
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+O projeto foi criado com a proposta do desafio “Natty ou Fake”, cujo objetivo é produzir um conteúdo tão realista que faça as pessoas questionarem se aquilo realmente aconteceu ou foi gerado por Inteligência Artificial.
+
+A ideia escolhida foi desenvolver uma “notícia” envolvendo patos, trazendo uma narrativa curiosa e divertida, construída para parecer um vídeo real de internet. Todo o conteúdo foi produzido a partir de uma única imagem, utilizando IA para transformar a cena estática em um vídeo dinâmico e convincente.
+
+O conceito do projeto explora justamente o limite entre realidade e criação artificial, mostrando como a IA consegue dar vida, movimento e contexto para algo que originalmente era apenas uma foto.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Pippit AI — utilizado para transformar a imagem em vídeo e aplicar recursos de IA generativa
+ChatGPT — apoio na criação textual, organização da ideia e elaboração da descrição do projeto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+O processo começou com a escolha da temática do vídeo: uma falsa notícia envolvendo patos, unindo humor e realismo para se encaixar perfeitamente na proposta “Natty ou Fake”.
+
+A partir de apenas uma imagem, utilizei o Pippit AI para gerar movimento, ambientação e dinamismo no vídeo. A IA foi responsável por transformar uma cena estática em uma sequência visual mais viva e natural, simulando uma gravação real.
+
+Depois disso, trabalhei na construção da narrativa para fazer o conteúdo parecer uma notícia verdadeira da internet, criando um tom convincente capaz de gerar dúvida em quem assiste. Por fim, utilizei o ChatGPT para estruturar a apresentação do projeto e refinar os textos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O resultado final foi um vídeo criativo e convincente, capaz de causar a sensação de “isso parece real, mas será que é?”. A proposta conseguiu explorar bem o conceito do desafio, utilizando IA para criar uma situação fictícia com aparência autêntica.
+
+Além disso, o projeto mostrou como ferramentas de Inteligência Artificial podem transformar materiais simples, como uma única imagem, em conteúdos audiovisuais completos e envolventes. O vídeo também reforça como a IA pode ser usada tanto para entretenimento quanto para experimentos criativos ligados à percepção de realidade.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+O maior desafio foi equilibrar humor e realismo ao mesmo tempo. Como a proposta era fazer algo “fake” parecer “natty”, foi necessário pensar em detalhes que deixassem o vídeo convincente sem perder o aspecto divertido da ideia.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A experiência mostrou como a IA consegue criar conteúdos extremamente realistas mesmo com poucos recursos iniciais. Ao mesmo tempo, também evidencia como está cada vez mais difícil diferenciar conteúdos reais de conteúdos gerados artificialmente, especialmente em vídeos curtos e narrativas virais da internet.
