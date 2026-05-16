@@ -25,6 +25,8 @@ Depois disso, trabalhei na construção da narrativa para fazer o conteúdo pare
 
 ## 🚀 Resultados
 
+https://github.com/user-attachments/assets/ea2c30d6-428d-4b93-897c-c8fbaca85184
+
 O resultado final foi um vídeo criativo e convincente, capaz de causar a sensação de “isso parece real, mas será que é?”. A proposta conseguiu explorar bem o conceito do desafio, utilizando IA para criar uma situação fictícia com aparência autêntica.
 
 Além disso, o projeto mostrou como ferramentas de Inteligência Artificial podem transformar materiais simples, como uma única imagem, em conteúdos audiovisuais completos e envolventes. O vídeo também reforça como a IA pode ser usada tanto para entretenimento quanto para experimentos criativos ligados à percepção de realidade.
